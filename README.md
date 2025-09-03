@@ -46,4 +46,6 @@ A pesar de todas las dificultades, me gustó mucho el reto. Aprendí un montón,
 ## Mejoras futuras
 
 - El diseño de la pagina principal
+- Agregar animaciones sutiles
+- Mostrar mas detalles de los perfiles
 
